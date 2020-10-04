@@ -1,0 +1,28 @@
+/*  pink color style    */
+.header ul li a:hover,
+.people-section .people-item-inner .icons a i,
+.event-section .event-item-inner span,
+.story-section .story-item i,
+.story-section .story-item .story-text h3,
+.header ul li a.active,
+.couple-section .couple .icons a i,
+.btn-1:hover,
+.couple-section .couple i.fa-heart,
+.couple-section .couple h2 {
+  color: #fb839e;
+}
+.btn-1,
+.couple-section .couple .icons a i,
+.people-section .people-item-inner .icons a i,
+.event-section .event-item-inner::before,
+.couple-section .couple img {
+  border-color: #fb839e;
+}
+.rsvp-section,
+.btn-1,
+.event-section,
+.people-section .people-item-inner .icons a:hover i,
+.people-section .filter-btn.active,
+.couple-section .couple .icons a:hover i {
+  background-color: #fb839e;
+}
